@@ -1,6 +1,6 @@
 from prettytable import PrettyTable
 
-
+# coderabbit final test
 # Customer.py is not crucial to this program and may be reconstructed in future developments.
 class Customers:
     # parameterized constructor to assign values
