@@ -10,7 +10,7 @@ import re
 password = "Nikyl1978@"  # database connection password
 Agent_password = "Insurance@1515"  # common password for the agent login
 
-
+# coderabbit test
 # Login page
 def login_input():
     print("Home Page\n")
